@@ -6,7 +6,7 @@
 <p>In this project we will forcus on ideal functional requrement to gether information that will sustain our needs to end Bank Management system.<br>Bello lists shows Functional regurements for our project. <br><h3>Ther are three modes used in banks management</h3></p>
 
 <div>
-  <ol>
+  <ul>
     <div>
     <li>Admin</li>
       <ol>
@@ -39,7 +39,7 @@
         <li>Add or update manager details.</li>
       </ol>
     </div>
-  </ol>
+  </ul>
 </div>
 
 
