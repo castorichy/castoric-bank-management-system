@@ -42,6 +42,6 @@
   </ul>
 </div>
 
-<img href="./Src/Images/uc-1.png" type="image/png" alt="System Flow Chart">
+<a href="./Src/Images/uc-1.png" type="image/png" alt="System Flow Chart"></a>
 
 
